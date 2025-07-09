@@ -23,11 +23,16 @@
 ## Stack
 - Reactjs
 - Nodejs
-- Elastic Search
-
+- Elastic Search (telemetry)
+- MongoDB (objects)
 - Express
-- Vite
+- Vite/Vitest
 - Zustand
+
 - Ant Design
+- Leaflet
+- Html2canvas
+- jsPDF
+
 
 
